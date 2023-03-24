@@ -1,6 +1,6 @@
 <h1 align="center">Welcome 🖖</h1>
 
-- 🔭 I'm currently studying on FATEC (Cross-platform Software Development); 
+- 🔭 Currently studying on FATEC (Cross-platform Software Development); 
 - 🔎 Searching for internship opportunities.
 
 <div>
@@ -18,8 +18,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <p>
 </div>
-  <p>
-  <a href="https://www.linkedin.com/in/juliana-maciel-manso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
  </div>
