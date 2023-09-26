@@ -1,6 +1,5 @@
 <h1 align="center">Welcome 🖖</h1>
 
-- 🔭 Currently studying on FATEC (Cross-platform Software Development); 
 - 🔎 Searching for internship opportunities.
 
 <div>
