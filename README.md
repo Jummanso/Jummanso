@@ -1,6 +1,5 @@
 <h1 align="center">Welcome 🖖</h1>
 
-- 🔎 Searching for internship opportunities.
 
 <div>
   <a href="https://github.com/Jummanso)">
