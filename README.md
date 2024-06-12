@@ -1,10 +1,10 @@
 
 <h1 align="center">Welcome, I´m Juliana 🖖</h1>
 
-Professional with more than 10 years of experience in the financial area in career transition. 
+Professional with more than 10 years of experience in the financial area, with degree in Administration (2014) at FATESF and MBA in Corporate Finance (2019) at FGV, in career transition. 
 <br>
 <br>
-Actually studying cross-platform software development at FATEC and currently interning at Embraer.
+Actually studying cross-platform software development at FATEC (Conclusion in Dec/2025) and currently interning at Embraer.
 
 <h1 align="center">Projects 💥</h1>
 
@@ -23,11 +23,10 @@ Actually studying cross-platform software development at FATEC and currently int
 
 <h1 align="center">Contacts 🤓</h1>
 
-<div  align="center"> 
-  
+**<font color="black">E-mail: juliana.manso@fatec.sp.gov.br</font>**
+ 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-maciel-manso/)
 
-</div>
 <h1 align="center"></h1>
 
 <div align="center">
