@@ -6,6 +6,7 @@ Professional with more than 10 years of experience in the financial area in care
 <br>
 Actually studying cross-platform software development at FATEC and currently interning at Embraer.
 
+
 <h1 align="center">Contacts 🤓</h1>
 
 <div  align="center"> 
@@ -13,12 +14,15 @@ Actually studying cross-platform software development at FATEC and currently int
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-maciel-manso/)
 
 </div>
+<h1 align="center"></h1>
 
 <div align="center">
-   <a href="https://github.com/jummanso7">
-   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jummanso&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jummanso&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+   <a href="https://github.com/jummanso">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jummanso&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+     <br>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jummanso&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
+
      
   <br>
 <div  align="center"> 
