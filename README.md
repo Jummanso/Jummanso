@@ -14,14 +14,12 @@ Actually studying cross-platform software development at FATEC and currently int
 
 </div>
 
-  <div  align="center"> 
-  <a href="https://github.com/Jummanso)">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jummanso&show_icons=true&theme=radical"/>
-    <br>
-    <div  align="center"> 
-  <img height="195em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jummanso&layout=compact&langs_count=7&theme=react" />
-
+<div align="center">
+   <a href="https://github.com/jummanso7">
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jummanso&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jummanso&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
 </div>
+     
   <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
