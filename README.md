@@ -24,7 +24,7 @@ Professional with more than 10 years of experience in the financial area, with a
 
 </div>
 
-**[Projeto Treinamento Scrum](https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum)**
+**[Scrum Training Website](https://github.com/TerraSoftwarehouse/Projeto-Treinamento-Scrum)**
 - **Team Terra Software house (1st semester/2023)**: Development of a web system indicating all processes and artifacts of the agile methodology (Scrum), as well as fixation tests, with the system being intuitive and easy to use.<br>
 <div align="center">
    
