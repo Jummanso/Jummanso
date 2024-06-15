@@ -8,7 +8,8 @@ Professional with more than 10 years of experience in the financial area, with a
 - **Team Devs Domain (1st semester/2024)**:🏆 Project ranked 1st in the competition among all classes of the DSM course at FATEC in Jacareí, in which an exclusive management tool was developed for the project manager, where he can manage the data indicated by the editor and reviewer. The system allows the manager to delimit the project area, upload supporting data, register users (editors and reviewers), assign work areas and extract statistics. In this way, the tool aims to improve the efficiency and quality of mapping projects, centralizing data management tasks provided by employees involved in the process.<br>
 <div align="center">
    
-![image](https://github.com/Jummanso/Jummanso/assets/126696706/0fa36a54-504d-4162-95ed-a3aa611c8016)
+![image](https://github.com/Jummanso/Jummanso/assets/126696706/e1fcbf0c-7d55-497e-a4de-efc15d4d71fc)
+
 
 </div>
 
@@ -18,7 +19,8 @@ Professional with more than 10 years of experience in the financial area, with a
 - **Team Devs Domain (2st semester/2023)**: Development of a peer-to-peer web application to connect owners and people interested in renting bicycles. The application only acts as an intermediary between the parties without any responsibility for payment.<br>
 <div align="center">
    
-![image](https://github.com/Jummanso/Jummanso/assets/126696706/c2ab6a45-b727-4836-92ba-432b1d4cb72d)
+![image](https://github.com/Jummanso/Jummanso/assets/126696706/28d5d547-3e69-4425-bd7d-6cef1cda1520)
+
 
 </div>
 
@@ -26,7 +28,8 @@ Professional with more than 10 years of experience in the financial area, with a
 - **Team Terra Software house (1st semester/2023)**: Development of a web system indicating all processes and artifacts of the agile methodology (Scrum), as well as fixation tests, with the system being intuitive and easy to use.<br>
 <div align="center">
    
-![image](https://github.com/Jummanso/Jummanso/assets/126696706/f8c5f74f-f631-4786-91ea-3bee44c5871a)
+![image](https://github.com/Jummanso/Jummanso/assets/126696706/5f07ecea-df2f-499d-9be4-e628ce19bb72)
+
 
 </div>
 
