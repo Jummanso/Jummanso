@@ -36,7 +36,7 @@ Professional with more than 10 years of experience in the financial area, with a
 
 <h1 align="center">Contacts 🤓</h1>
 
-**E-mail:** juliana.manso@fatec.sp.gov.br
+**E-mail:** julianamaciel97@duck.com
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-maciel-manso/)
 
