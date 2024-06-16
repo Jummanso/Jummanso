@@ -20,7 +20,10 @@ Professional in career transition studying Cross-platform Software Development a
 - **Team Devs Domain (2st semester/2023)**: Development of a peer-to-peer web application to connect owners and people interested in renting bicycles. The application only acts as an intermediary between the parties without any responsibility for payment.<br>
 <div align="center">
    
-![image](https://github.com/Jummanso/Jummanso/assets/126696706/28d5d547-3e69-4425-bd7d-6cef1cda1520)
+![image](https://github.com/Jummanso/Jummanso/assets/126696706/82d8315d-d55d-4418-a79e-1d147b169f4b)
+
+
+
 
 
 </div>
@@ -29,7 +32,8 @@ Professional in career transition studying Cross-platform Software Development a
 - **Team Terra Software house (1st semester/2023)**: Development of a web system indicating all processes and artifacts of the agile methodology (Scrum), as well as fixation tests, with the system being intuitive and easy to use.<br>
 <div align="center">
    
-![image](https://github.com/Jummanso/Jummanso/assets/126696706/5f07ecea-df2f-499d-9be4-e628ce19bb72)
+![image](https://github.com/Jummanso/Jummanso/assets/126696706/e1beba95-091c-4b8e-ad2f-d385411833ae)
+
 
 
 </div>
