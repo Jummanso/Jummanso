@@ -8,7 +8,8 @@ Professional in career transition studying Cross-platform Software Development a
 - **Team Devs Domain (1st semester/2024)**:🏆 Project ranked 1st in the competition among all classes of the DSM course at FATEC in Jacareí, in which an exclusive management tool was developed for the project manager, where he can manage the data indicated by the editor and reviewer. The system allows the manager to delimit the project area, upload supporting data, register users (editors and reviewers), assign work areas and extract statistics. In this way, the tool aims to improve the efficiency and quality of mapping projects, centralizing data management tasks provided by employees involved in the process.<br>
 <div align="center">
    
-![image](https://github.com/Jummanso/Jummanso/assets/126696706/e1fcbf0c-7d55-497e-a4de-efc15d4d71fc)
+![image](https://github.com/Jummanso/Jummanso/assets/126696706/acc93915-af14-4662-b438-4ba7019ef246)
+
 
 
 </div>
