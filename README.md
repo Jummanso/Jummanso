@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, I´m Juliana 🖖</h1>
 
-Professional with more than 10 years of experience in the financial area, with a degree in Administration (2014) at FATESF and an MBA in Corporate Finance (2019) at FGV, currently in a career transition studying Cross-platform Software Development at FATEC (Conclusion in Dec/2025) and interning at Embraer since Jan/2024.
+Professional in career transition studying Cross-platform Software Development at FATEC (Conclusion in Dec/2025)  with more than 10 years of experience in the financial area, degree in Administration (2014) at FATESF and an MBA in Corporate Finance (2019) at FGV. 
 
 <h1 align="center">Projects 💥</h1>
 
