@@ -4,6 +4,13 @@ Professional in career transition studying Cross-platform Software Development a
 
 <h1 align="center">Projects 💥</h1>
 
+  **[D-Nutri](https://github.com/DevsDomain/D-Nutri)**
+- **Team Devs Domain (2st semester/2024)**: The proposed challenge was to specify and build a mobile application that would allow users to record and monitor their daily intake of calories and nutrients, helping to control their diet and maintain their health.
+
+
+![image](https://github.com/user-attachments/assets/f2b6438a-c88d-4287-b892-a0b5e68a5115)
+
+
   **[D-Tracker](https://github.com/DevsDomain/D-Traker)**
 - **Team Devs Domain (1st semester/2024)**:🏆 Project ranked 1st in the competition among all classes of the DSM course at FATEC in Jacareí, in which an exclusive management tool was developed for the project manager, where he can manage the data indicated by the editor and reviewer. The system allows the manager to delimit the project area, upload supporting data, register users (editors and reviewers), assign work areas and extract statistics. In this way, the tool aims to improve the efficiency and quality of mapping projects, centralizing data management tasks provided by employees involved in the process.<br>
 <div align="center">
