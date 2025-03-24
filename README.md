@@ -1,6 +1,6 @@
 <h1 align="center">Welcome, I´m Juliana 🖖</h1>
 
-Professional in career transition studying Cross-platform Software Development at FATEC - Faculdade de Tecnologia do Estado de São Paulo (Conclusion in Dec/2025)  with more than 10 years of experience in the financial area, degree in Administration (2014) at FATESF (Faculdade de Tecnologia São Francisco) and an MBA in Corporate Finance (2019) at FGV (Fundação Getulio Vargas). 
+Professional in career transition studying Cross-platform Software Development at FATEC - Faculdade de Tecnologia do Estado de São Paulo with more than 10 years of experience in the financial area, degree in Administration (2014) at FATESF (Faculdade de Tecnologia São Francisco) and an MBA in Corporate Finance (2019) at FGV (Fundação Getulio Vargas). 
 
 <h1 align="center">Projects 💥</h1>
 
