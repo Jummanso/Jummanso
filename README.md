@@ -79,12 +79,7 @@
 
 <h1 align="center"></h1>
 
-<div align="center">
-   <a href="https://github.com/jummanso">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jummanso&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
-     <br>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jummanso&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
-</div>
+
 
 
 
