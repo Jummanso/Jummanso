@@ -3,6 +3,12 @@
 
 <h1 align="center">Projects 💥</h1>
 
+  **[D-Tracker](https://github.com/DevsDomain/D-Tracker)**
+- **Team Devs Domain (1st semester/2025)**: 🏆 Project selected as the winner in the competition among all 5th semester DSM course projects at FATEC Jacareí. The challenge was to develop a complete solution (API and web application) capable of automatically mapping burn scars using satellite imagery from the CBERS4, CBERS4A and Amazônia satellites. The system applied Deep Learning techniques and cloud processing to support environmental monitoring, enabling the identification and analysis of areas affected by wildfires in a more efficient and scalable way.
+
+
+![image](https://github.com/user-attachments/assets/b2f9ef5d-2107-4c07-a46e-ef0ae37f39f2)
+
   **[D-Nutri](https://github.com/DevsDomain/D-Nutri)**
 - **Team Devs Domain (2st semester/2024)**: The proposed challenge was to specify and build a mobile application that would allow users to record and monitor their daily intake of calories and nutrients, helping to control their diet and maintain their health.
 
