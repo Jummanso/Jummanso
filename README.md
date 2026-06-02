@@ -3,7 +3,7 @@
 
 <h1 align="center">Projects 💥</h1>
 
-  **[D-Tracker](https://github.com/DevsDomain/D-Tracker)**
+  **[D-FireTrack](https://github.com/DevsDomain/D-FireTrack)**
 - **Team Devs Domain (1st semester/2025)**: 🏆 Project selected as the winner in the competition among all 5th semester DSM course projects at FATEC Jacareí. The challenge was to develop a complete solution (API and web application) capable of automatically mapping burn scars using satellite imagery from the CBERS4, CBERS4A and Amazônia satellites. The system applied Deep Learning techniques and cloud processing to support environmental monitoring, enabling the identification and analysis of areas affected by wildfires in a more efficient and scalable way.
 
 
